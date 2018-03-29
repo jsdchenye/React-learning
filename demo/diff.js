@@ -79,4 +79,6 @@ LIS: [1, 4]
  * P: [3, 0, 1, 2]
  * LIS: [0, 1, 2]
  * 只需要将d移动到头部位置就可以完成diff，一次操作就行
+ * 
+ * 参考:https://github.com/NervJS/nerv/issues/3
  */
